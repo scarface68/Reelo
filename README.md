@@ -58,4 +58,4 @@ we use - http://localhost:5000/questions?Waves=20&Elements=40&Arithmetic=40
 
 This will also follow the previous constraint of 20% Easy, 50% Medium, 30% Hard
 
-The results can be checked using Postman or directly using the links mentioned above after starting the server.
+The results can be checked using Postman or directly using the links mentioned above in a browser after starting the server.
